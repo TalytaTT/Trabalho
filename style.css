@@ -1,0 +1,57 @@
+.saudacao{
+margin-bottom: 2px;
+}
+button :hover {
+    color: red; 
+    text-decoration: underline;}
+button {
+    width:30%;
+    padding:6px;
+    margin-bottom: 6px;
+    border-radius:5px;
+    border:1px solid #000000;
+    font-size: 18px;
+}
+body{
+    background-color: rgba(223, 217, 217, 0.856);
+}
+h1{
+    text-align: center;
+    color: rgb(23, 34, 189);
+ }
+ 
+td{
+    text-align: center;
+}
+.pintora {
+    margin-left:400px;
+
+}
+p {
+    text-align:justify;
+    font-size: 21px;
+}
+li{
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+img{
+    border-radius: 100px;
+}
+
+
+table{
+    width:30%;
+    padding:6px;
+    margin-bottom:10px;
+    border-radius:5px;
+    border:1px solid #000000;
+}
+a:hover {
+    color: red; 
+    text-decoration: underline; 
+}
+
+#mensagem{
+    font-size: 17px;
+}
